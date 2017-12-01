@@ -1,0 +1,87 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Afrimations.com" resolutions="1x" timestamp="1511285706003">
+  <folder name="css">
+    <file name="site_global.css" crc="123961904"/>
+    <file name="master_a-master.css" crc="4070665261" ref="contact:about:index:pricing"/>
+    <file name="contact.css" crc="4222976063" ref="contact"/>
+    <file name="about.css" crc="492022324" ref="about"/>
+    <file name="index.css" crc="423574966" ref="index"/>
+    <file name="iefonts_index.css" crc="4091658481" ref="index"/>
+    <file name="pricing.css" crc="3763914814" ref="pricing"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:contact:pricing:about"/>
+    <file name="museutils.js" crc="183364071" ref="index:contact:pricing:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:contact:pricing:about"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:contact:pricing:about"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact:pricing"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contact:pricing"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:contact"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:contact"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:contact"/>
+    <file name="form_check.php" crc="277267350" ref="index:contact:pricing"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:contact:pricing"/>
+    <file name="form_process.php" crc="24249335" ref="index:contact:pricing"/>
+    <file name="form-u800.php" crc="4239935967" ref="index"/>
+    <file name="form-u976.php" crc="105906821" ref="contact"/>
+    <file name="form-u1050.php" crc="3771176206" ref="pricing"/>
+  </folder>
+  <folder name="images">
+    <file name="pricing-u445-fr.png" crc="4148770334" ref="index"/>
+    <file name="pricing-u445-r-fr.png" crc="3864331163" ref="index"/>
+    <file name="about-u421-fr.png" crc="289438362" ref="index"/>
+    <file name="about-u421-r-fr.png" crc="3775716253" ref="index"/>
+    <file name="home-u409-fr.png" crc="3823173521" ref="index"/>
+    <file name="home-u409-r-fr.png" crc="125723599" ref="index"/>
+    <file name="contact-u433-fr.png" crc="315846004" ref="index"/>
+    <file name="contact-u433-r-fr.png" crc="431186243" ref="index"/>
+    <file name="triangle logo-u90-fr.png" crc="4191199230" ref="index"/>
+    <file name="colors afrilogo.png" crc="35465118" ref="index"/>
+    <file name="tablet_mountains-illustration-artwork-wallpaper.jpg" crc="4084991217" ref="index"/>
+    <file name="btn1 hover-btn1.png" crc="347762404" ref="index"/>
+    <file name="btn1 hover-layer 0.png" crc="4138074393" ref="index"/>
+    <file name="btn2-layer 0.png" crc="3846609453" ref="index"/>
+    <file name="btn2-btn2 hover.png" crc="3942266123" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u713.png" crc="277249552" ref="index"/>
+    <file name="u713-r.png" crc="277249552" ref="index"/>
+    <file name="rocket.png" crc="255353684" ref="index"/>
+    <file name="gears.png" crc="439095320" ref="index"/>
+    <file name="chatpop.png" crc="4079477976" ref="index"/>
+    <file name="patric.png" crc="317046898" ref="index"/>
+    <file name="u459-4.png" crc="80099192" ref="index"/>
+    <file name="u461-4.png" crc="3865016203" ref="index"/>
+    <file name="offers-u458-fr.png" crc="4146045004" ref="index"/>
+    <file name="u807-17.png" crc="326256705" ref="index"/>
+    <file name="u807-17-r.png" crc="4169714411" ref="index"/>
+    <file name="u807-17-m.png" crc="3975102588" ref="index"/>
+    <file name="u807-17-fs.png" crc="535669088" ref="index"/>
+    <file name="cont-layer 0.png" crc="3788769715" ref="index"/>
+    <file name="cont-cont2.png" crc="3871395125" ref="index"/>
+    <file name="black and white afrimations.png" crc="2214098" ref="index"/>
+    <file name="facebookico-layer 0.png" crc="374875488" ref="index"/>
+    <file name="facebookico-f2.png" crc="3824370939" ref="index"/>
+    <file name="instaico-layer 0.png" crc="3825003438" ref="index"/>
+    <file name="instaico-insta hover.png" crc="391751779" ref="index"/>
+    <file name="above clouds in a mountain expedition uhd-u919-fr.png" crc="501491792" ref="contact"/>
+    <file name="u990-17.png" crc="4031755348" ref="contact"/>
+    <file name="u990-17-r.png" crc="307946308" ref="contact"/>
+    <file name="u990-17-m.png" crc="4046374489" ref="contact"/>
+    <file name="u990-17-fs.png" crc="493006897" ref="contact"/>
+    <file name="u1064-17.png" crc="490564162" ref="pricing"/>
+    <file name="u1064-17-r.png" crc="4111048415" ref="pricing"/>
+    <file name="u1064-17-m.png" crc="4102659014" ref="pricing"/>
+    <file name="u1064-17-fs.png" crc="4139711966" ref="pricing"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="pricing"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="pricing"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="pricing"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="pricing"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="pricing"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="pricing"/>
+    <file name="galaxy-wallpaper-36-u1142-fr.png" crc="4220537557" ref="about"/>
+    <file name="logo design blue-u1169-fr.png" crc="526630025" ref="about"/>
+  </folder>
+  <file name="index.html" crc="107306208" seo="true" mt="1511285663254" redirect="true"/>
+  <file name="contact.html" crc="4059436017" seo="true" mt="1511285574541" redirect="true"/>
+  <file name="pricing.html" crc="435624621" seo="true" mt="1511285450680" redirect="true"/>
+  <file name="about.html" crc="108043019" seo="true" mt="1511285450678" redirect="true"/>
+</manifest>

@@ -1,0 +1,177 @@
+#u75
+{
+	background-color: #29ABE2;
+}
+
+#u445
+{
+	position: relative;
+	background: transparent url("../images/pricing-u445-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u445:hover
+{
+	background: transparent url("../images/pricing-u445-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u445.MuseLinkActive
+{
+	background: transparent url("../images/pricing-u445-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u421
+{
+	position: relative;
+	background: transparent url("../images/about-u421-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u421:hover
+{
+	background: transparent url("../images/about-u421-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u421.MuseLinkActive
+{
+	background: transparent url("../images/about-u421-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u409
+{
+	position: relative;
+	background: transparent url("../images/home-u409-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u409:hover
+{
+	background: transparent url("../images/home-u409-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u409.MuseLinkActive
+{
+	background: transparent url("../images/home-u409-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u433
+{
+	position: relative;
+	background: transparent url("../images/contact-u433-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u433:hover
+{
+	background: transparent url("../images/contact-u433-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u433.MuseLinkActive
+{
+	background: transparent url("../images/contact-u433-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u90
+{
+	position: fixed;
+	background: transparent url("../images/triangle%20logo-u90-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u83
+{
+	position: fixed;
+	background: transparent url("../images/colors%20afrilogo.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u622
+{
+	background-color: #333333;
+}
+
+#u75_align_to_page,#u622_align_to_page
+{
+	position: relative;
+}
+
+#u623
+{
+	position: relative;
+	background: transparent url("../images/black%20and%20white%20afrimations.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u630
+{
+	border-width: 3px;
+	border-style: solid;
+	border-color: #444444;
+	background-color: #444444;
+	border-radius: 4px;
+	position: relative;
+}
+
+#u635-4,#u636-4,#u638-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u633-4,#u637-4,#u688-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u633,#u635,#u636,#u638,#u688
+{
+	text-decoration: underline;
+}
+
+#u631-4,#u687-4,#u821-4
+{
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	color: #BCBCBC;
+	position: relative;
+}
+
+#u833
+{
+	position: relative;
+	background: transparent url("../images/facebookico-layer%200.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u833:hover
+{
+	background: transparent url("../images/facebookico-f2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u845
+{
+	position: relative;
+	background: transparent url("../images/instaico-layer%200.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u845:hover
+{
+	background: transparent url("../images/instaico-insta%20hover.png") no-repeat center center;
+	background-size: contain;
+}
+
